@@ -90,7 +90,7 @@ NOAI-Preparation-Guide/
 ├── 05_Unsupervised_Learning.ipynb
 ├── 06_Deep_Learning_PyTorch.ipynb
 ├── 07_Computer_Vision.ipynb
-├── 08_NOAI_Practice_Questions.ipynb
+├── 08_Natural_language_processing.ipynb
 
 ├── README.md
 ├── LICENSE
