@@ -34,7 +34,7 @@ The objective is simple:
 * Bridge theory and application
 * Promote AI Olympiad culture in Nepal
 
-> Disclaimer: These materials reflect my personal preparation journey and understanding of NOAI-related topics. They are not official resources from NOAI or IOAI organizers.
+> Disclaimer: These materials reflect my personal preparation journey and understanding of NOAI-related topics. They are also the official resources from NOAI organizers.
 
 ---
 
